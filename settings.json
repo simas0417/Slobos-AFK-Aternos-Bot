@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "lakapauciai.aternos.me",
+    "port": 33616,
     "version": "",
     "try-creative": false
   },
